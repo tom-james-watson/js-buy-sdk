@@ -4,8 +4,6 @@ set -x
 
 export PATH=$(npm bin):$PATH
 
-git --work-tree=./docs checkout master -- src
-
 # settings for yuidoc will come from yuidoc.json
 yuidoc
 

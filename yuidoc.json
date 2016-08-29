@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "options": {
     "linkNatives": true,
-    "paths": "./docs/src",
+    "paths": "./src",
     "outdir": "./docs/api",
     "themedir": "./node_modules/yuidoc-lucid-theme/",
     "ignorePaths": [
